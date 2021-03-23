@@ -1,0 +1,19 @@
+.log{
+  background-color: navy;
+  color: white;
+}
+.bg{
+  background-color: lightgray;
+}
+.font{
+  text-align: right;
+  padding: 30px;
+}
+.font1{
+  text-align: center;
+  padding: 30px;
+}
+.img{
+  width: 30px;
+  height: 30px;
+}
